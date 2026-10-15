@@ -10,3 +10,5 @@ Open `index.html` locally, or publish this repo:
 4. The site is served at https://balajiintech.github.io/profile/
 
 The resume facts on the page come from `BalajiThirunavukarasuRajalingamResume.pdf`. Phone, email, and LinkedIn are public once Pages is enabled.
+
+https://ypalle-dev.github.io/ypalle-profile/#experience
